@@ -1,0 +1,7 @@
+enlace del fichero con la ubicacion de los escenarios
+
+http://ogdidata.blob.core.windows.net/descargas/Coldeportes.consolidadoescenarios.csv
+
+enlace del fichero con los eventos deportivos
+
+http://ogdidata.blob.core.windows.net/descargas/Coldeportes.consolidadoeventos.csv
